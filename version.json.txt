@@ -1,6 +1,6 @@
 {
   "name": "RHelper",
   "version": "4.6",
-  "file_url": "ССЫЛКА_НА_RHelper.lua_БУДЕТ_ПОЗЖЕ",
+  "file_url": "https://raw.githubusercontent.com/osamanov86-design/rhelper-update/main/RHelper.lua",
   "changelog": "Добавлено автообновление."
 }
