@@ -1,0 +1,6 @@
+{
+  "name": "RHelper",
+  "version": "4.6",
+  "file_url": "ССЫЛКА_НА_RHelper.lua_БУДЕТ_ПОЗЖЕ",
+  "changelog": "Добавлено автообновление."
+}
