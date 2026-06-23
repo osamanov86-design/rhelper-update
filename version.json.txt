@@ -1,6 +1,6 @@
 {
   "name": "RHelper",
-  "version": "4.7",
+  "version": "4.8",
   "file_url": "https://raw.githubusercontent.com/osamanov86-design/rhelper-update/main/RHelper.lua",
-  "changelog": "Добавление функций взаимодействия + оверлей и прочее"
+  "changelog": "Исправлены мелкие баги по вашим просьбам"
 }
