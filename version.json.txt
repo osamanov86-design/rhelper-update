@@ -2,5 +2,5 @@
   "name": "RHelper",
   "version": "5.0",
   "file_url": "https://raw.githubusercontent.com/osamanov86-design/rhelper-update/main/RHelper.lua",
-  "changelog": "Добавлена система меток по клавише + Обнаружение /wanted в зоне видимости"
+  "changelog": "Изменён дизайн, исправлены баги, добавлено немного всякого по просьбам"
 }
