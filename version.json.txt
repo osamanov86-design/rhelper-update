@@ -1,6 +1,6 @@
 {
   "name": "RHelper",
-  "version": "5.4",
+  "version": "5.5",
   "file_url": "https://raw.githubusercontent.com/osamanov86-design/rhelper-update/main/RHelper.lua",
-  "changelog": "Исправлены и добавлены команды для экзаменов SFPD"
+  "changelog": "Ручной биндер до 20 слотов, добавлены авто FBI, убраны лишние отделы APG/SMG, добавлено сопровождение погони"
 }
