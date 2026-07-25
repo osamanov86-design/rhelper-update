@@ -1,6 +1,6 @@
 {
   "name": "RHelper",
-  "version": "5.5",
+  "version": "5.6",
   "file_url": "https://raw.githubusercontent.com/osamanov86-design/rhelper-update/main/RHelper.lua",
-  "changelog": "Ручной биндер до 20 слотов, добавлены авто FBI, убраны лишние отделы APG/SMG, добавлено сопровождение погони"
+  "changelog": "Смена погоды - /sw | Блок объявлений - /adblock | Случайные RP действия - вкл в /tr - основное"
 }
