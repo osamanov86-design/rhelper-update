@@ -1,6 +1,6 @@
 {
   "name": "RHelper",
-  "version": "5.7.1",
+  "version": "5.6",
   "file_url": "https://raw.githubusercontent.com/osamanov86-design/rhelper-update/main/RHelper.lua",
   "changelog": "Мелкие исправления"
 }
