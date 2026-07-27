@@ -1,6 +1,6 @@
 {
   "name": "RHelper",
-  "version": "5.7.1",
+  "version": "5.7.2",
   "file_url": "https://raw.githubusercontent.com/osamanov86-design/rhelper-update/main/RHelper.lua",
   "changelog": "исправление крашей | обновите скрипт до краша и всё будет ок"
 }
